@@ -38,3 +38,5 @@ print("hello world!")
 var name = prompt("이름을 입력하세요:")
 alert(name+"님 환영합니다")
 '''
+---
+[이니모의깃허브](https://github.com/lnh24390/QSEXFProject2)
