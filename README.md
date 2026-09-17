@@ -41,3 +41,8 @@ alert(name+"님 환영합니다")
 ---
 [이니모의깃허브](https://github.com/lnh24390/QSEXFProject2, "니모의 기터브")
 <a href="https://github.com/lnh24390/QSEXFProject2">이니모의 깃허브</a>
+
+<img width="1200" height="945" alt="3" src="https://github.com/user-attachments/assets/335f9426-a41d-4fc7-8851-9df042e279ea" />
+
+
+
