@@ -33,11 +33,11 @@
 
 --
 **자바스크립트 코드**
-'''
+```
 print("hello world!")
 var name = prompt("이름을 입력하세요:")
 alert(name+"님 환영합니다")
-'''
+```
 ---
 [이니모의깃허브](https://github.com/lnh24390/QSEXFProject2, "니모의 기터브")
 <a href="https://github.com/lnh24390/QSEXFProject2">이니모의 깃허브</a>
