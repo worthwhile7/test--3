@@ -26,9 +26,9 @@
 --
 **라면끓이기**
 + 물 끓이기
-+ 면 넣기
++ _면 넣기_
 + ***스프넣기***
-+ __먹기__
++ ~~먹기~~
 + ---
 
 --
@@ -40,3 +40,4 @@ alert(name+"님 환영합니다")
 '''
 ---
 [이니모의깃허브](https://github.com/lnh24390/QSEXFProject2, "니모의 기터브")
+<a href="https://github.com/lnh24390/QSEXFProject2">이니모의 깃허브</a>
